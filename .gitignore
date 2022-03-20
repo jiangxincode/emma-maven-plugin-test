@@ -1,0 +1,10 @@
+bin
+dist
+out
+release
+target/
+.classpath
+.project
+.settings/
+.idea/
+emma-maven-plugin.iml
